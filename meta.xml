@@ -1,5 +1,4 @@
 <meta>
-	<info name="Ah shit, here we go again. author="Haxardous-Axa" type="script" version="1.0.0"/>
     <script src="shit.lua" type="client"/>
     <file src="ahshitherewegoagain.mp3"/>
 </meta>
